@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.color-picker input {
+  margin: 5px;
+}
+
+.gradient-type-selector label {
+  margin: 0 10px;
+}
+.previewContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.preview {
+  margin-top: 20px;
+  border-radius: 20px;
+}
